@@ -20,7 +20,7 @@ public class Exercise {
                 }
             }   
         }
-        
+
         // TODO: Print the smallest and largest numbers
         System.out.println("Smallest: " + min);
         System.out.println("Largest: " + max);
