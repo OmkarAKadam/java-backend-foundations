@@ -25,10 +25,10 @@ public class ArrayPractice {
         System.out.println("2. Reverse Array");
         int[] nums2 = {45, 22, 89, 16, 90, 33};
 
-        for(int i = nums2.length - 1, j = 0; i >= 0 && j < nums2.length; i--, j++){
+        for(int i = 0; i < nums2.length / 2; i++){
             int temp = nums2[i];
-            nums2[i] = nums2[j];
-            nums2[j] = temp;
+            nums2[i] = nums2[nums2.length - 1 - i];
+            nums2[nums2.length - 1 - i] = temp;
         }
 
         System.out.println("Reversed Array: ");
@@ -83,11 +83,12 @@ public class ArrayPractice {
         System.out.println("5. Rotate Array Right by 1");
         int[] nums3 = {45, 22, 89, 16, 90, 33};
 
-        for(int i = 0; i < nums3.length; i++){
-            int temp = nums3[0];
-            nums3[0] = nums3[i];
-            nums3[i] = temp;
+        int last = nums3[nums3.length - 1];
+
+        for(int i = nums3.length - 1; i > 0; i--){
+            nums3[i] = nums3[i - 1];
         }
+        nums3[0] = last;
 
         System.out.println("Rotated Right by 1: ");
         for(int n : nums3){

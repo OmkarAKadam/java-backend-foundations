@@ -54,6 +54,11 @@ public class MethodsPractice {
             for(int i = 2; i <= n; i++){
                 fibonacciSeries[i] = fibonacciSeries[i-1] + fibonacciSeries[i -2];
             }
+
+            
+        for(int i = 0; i < n; i++){
+            System.out.print(fibonacciSeries[i] + " ");
+        }
             return fibonacciSeries[n];
         }
     }
