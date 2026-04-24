@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day-01/day-01.iml" filepath="$PROJECT_DIR$/day-01/day-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-02/day-02.iml" filepath="$PROJECT_DIR$/day-02/day-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-03/day-03.iml" filepath="$PROJECT_DIR$/day-03/day-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-04/day-04.iml" filepath="$PROJECT_DIR$/day-04/day-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-backend-foundations.iml" filepath="$PROJECT_DIR$/java-backend-foundations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-04/object-class/object-class.iml" filepath="$PROJECT_DIR$/day-04/object-class/object-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-02/self-practice/self-practice.iml" filepath="$PROJECT_DIR$/day-02/self-practice/self-practice.iml" />
+    </modules>
+  </component>
+</project>
