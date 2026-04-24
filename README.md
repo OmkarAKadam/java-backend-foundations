@@ -132,5 +132,129 @@ This repository tracks my learning of Java for backend development, progressing 
 
 ---
 
+---
+
+## 📅 Day 03 – Strings & Core OOP Concepts
+
+### Topics Covered
+
+#### Strings:
+- String creation and immutability  
+- Mutable vs Immutable strings  
+- StringBuffer and StringBuilder  
+
+#### OOP Concepts:
+- Encapsulation  
+- Getters and setters  
+- this keyword  
+- Constructors (default and parameterized)  
+
+#### Static Concepts:
+- Static variables  
+- Static methods  
+- Static block  
+
+#### Misc:
+- Naming conventions  
+- Anonymous objects  
+
+---
+
+### 💻 Practice Work
+
+#### String Problems:
+- Reverse string  
+- Palindrome check  
+- Count vowels and consonants  
+- Remove duplicate characters  
+- Compare `==` vs `.equals()`  
+
+#### OOP Practice:
+- Encapsulation with validation (Student, BankAccount)  
+- Constructor usage (Book, Employee)  
+- Static keyword practice (Counter, utility class)  
+- Demonstrated `this` keyword and anonymous objects  
+
+---
+
+### 📂 Folder Structure
+
+- day-03/
+  - strings/
+  - encapsulation/
+  - constructors/
+  - static/
+  - misc/
+
+---
+
+### ⚙️ Key Learnings
+- Understanding string immutability and performance implications  
+- Applying encapsulation for data protection and validation  
+- Using constructors for proper object initialization  
+- Understanding shared behavior using static members  
+- Writing cleaner and more structured object-oriented code  
+
+---
+
+## 📅 Day 04 – Inheritance, Polymorphism & Advanced OOP
+
+### Topics Covered
+
+#### Inheritance:
+- Need of inheritance  
+- Single and multilevel inheritance  
+- Multiple inheritance (conceptual in Java)  
+
+#### Core Concepts:
+- this and super keyword  
+- Method overriding  
+
+#### Polymorphism:
+- Compile-time vs runtime polymorphism  
+- Dynamic method dispatch  
+
+#### Java Structure:
+- Packages  
+- Access modifiers  
+
+#### Advanced Concepts:
+- final keyword  
+- Object class methods (equals, toString, hashCode)  
+- Upcasting and downcasting  
+- Wrapper classes  
+
+---
+
+### 💻 Practice Work
+- Completed quiz and coding exercises on OOP concepts  
+- Understood inheritance hierarchy and method overriding  
+- Explored polymorphism and dynamic method dispatch behavior  
+- Practiced usage of access modifiers and package structure  
+- Analyzed object comparison using equals and hashCode  
+
+---
+
+### 📂 Folder Structure
+
+- day-04/
+  - inheritance/
+  - polymorphism/
+  - packages/
+  - object-class/
+  - misc/
+
+---
+
+### ⚙️ Key Learnings
+- Understanding code reuse through inheritance  
+- Applying polymorphism for flexible and scalable design  
+- Managing access and structure using packages and modifiers  
+- Understanding object behavior through Object class methods  
+- Gaining clarity on type casting and wrapper classes  
+
+---
+
+
 ## 🔁 Discipline Rule
 - Code is written and pushed daily to maintain consistency and track progress  
