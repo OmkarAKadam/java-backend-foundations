@@ -255,6 +255,48 @@ This repository tracks my learning of Java for backend development, progressing 
 
 ---
 
+## 📅 Day 05 – Mini Project: Quiz Console Application
+
+### Topics Covered
+- Applying OOP concepts in a real use-case  
+- Class design and object interaction  
+- Arrays of objects  
+- Basic input/output handling  
+
+---
+
+### 💻 Practice Work
+
+#### Mini Project:
+- Built a console-based quiz application  
+
+#### Features:
+- Question class with encapsulated fields  
+- QuizService to manage quiz flow  
+- Display multiple-choice questions  
+- Accept user input  
+- Calculate and display final score  
+
+---
+
+### 📂 Folder Structure
+
+- day-05/
+  - quiz-app/
+    - Question.java
+    - QuizService.java
+    - QuizConsoleApp.java
+
+---
+
+### ⚙️ Key Learnings
+- Structuring a small application using multiple classes  
+- Managing data using arrays of objects  
+- Understanding flow control in real scenarios  
+- Identifying design limitations (tight coupling, input handling)  
+- Transitioning from concept-based coding to building small applications  
+
+---
 
 ## 🔁 Discipline Rule
 - Code is written and pushed daily to maintain consistency and track progress  
